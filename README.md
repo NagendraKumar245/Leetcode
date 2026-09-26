@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NagendraKumar245/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
@@ -104,4 +105,8 @@
 | [0136-single-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
