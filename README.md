@@ -14,6 +14,7 @@
 | [0414-third-maximum-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NagendraKumar245/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/NagendraKumar245/Leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/NagendraKumar245/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/NagendraKumar245/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -79,6 +80,7 @@
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NagendraKumar245/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NagendraKumar245/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/NagendraKumar245/Leetcode/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
