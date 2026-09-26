@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
