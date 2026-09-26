@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NagendraKumar245/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/NagendraKumar245/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NagendraKumar245/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -25,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NagendraKumar245/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/NagendraKumar245/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -83,6 +85,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/NagendraKumar245/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
