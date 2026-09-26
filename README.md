@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/NagendraKumar245/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NagendraKumar245/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NagendraKumar245/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NagendraKumar245/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NagendraKumar245/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NagendraKumar245/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NagendraKumar245/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -122,4 +124,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/NagendraKumar245/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NagendraKumar245/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
