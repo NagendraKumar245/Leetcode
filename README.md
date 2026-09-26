@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NagendraKumar245/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NagendraKumar245/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/NagendraKumar245/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NagendraKumar245/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/NagendraKumar245/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NagendraKumar245/Leetcode/tree/master/0367-valid-perfect-square) |
