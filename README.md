@@ -70,6 +70,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/NagendraKumar245/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -114,4 +115,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/NagendraKumar245/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
