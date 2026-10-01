@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NagendraKumar245/Leetcode/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NagendraKumar245/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -104,6 +105,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NagendraKumar245/Leetcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NagendraKumar245/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Breadth-First Search
@@ -146,5 +148,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NagendraKumar245/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NagendraKumar245/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
