@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NagendraKumar245/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
@@ -32,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/NagendraKumar245/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -62,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/NagendraKumar245/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -92,6 +95,7 @@
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NagendraKumar245/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/NagendraKumar245/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NagendraKumar245/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/NagendraKumar245/Leetcode/tree/master/0704-binary-search) |
@@ -142,6 +146,7 @@
 | [0075-sort-colors](https://github.com/NagendraKumar245/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Interactive
 |  |
 | ------- |
