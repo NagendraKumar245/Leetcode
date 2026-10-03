@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/NagendraKumar245/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/NagendraKumar245/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NagendraKumar245/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NagendraKumar245/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/NagendraKumar245/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NagendraKumar245/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -57,6 +59,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/NagendraKumar245/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NagendraKumar245/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0414-third-maximum-number) |
