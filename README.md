@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/NagendraKumar245/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NagendraKumar245/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/NagendraKumar245/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NagendraKumar245/Leetcode/tree/master/0383-ransom-note) |
@@ -94,6 +96,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
