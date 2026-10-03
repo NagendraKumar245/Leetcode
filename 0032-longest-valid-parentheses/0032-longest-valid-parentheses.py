@@ -1,0 +1,29 @@
+class Solution:
+    def longestValidParentheses(self, s: str) -> int:
+        answer = 0
+        opening = closing = 0
+
+        for ch in s:
+            if ch == "(":
+                opening += 1
+            else:
+                closing += 1
+
+            if opening == closing:
+                answer = max(answer, 2 * closing)
+            elif closing > opening:
+                opening = closing = 0
+
+        opening = closing = 0
+        for ch in reversed(s):
+            if ch == "(":
+                opening += 1
+            else:
+                closing += 1
+
+            if opening == closing:
+                answer = max(answer, 2 * opening)
+            elif opening > closing:
+                opening = closing = 0
+
+        return answer
