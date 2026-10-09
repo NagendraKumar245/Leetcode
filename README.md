@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NagendraKumar245/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/NagendraKumar245/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NagendraKumar245/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NagendraKumar245/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NagendraKumar245/Leetcode/tree/master/0414-third-maximum-number) |
@@ -111,6 +112,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NagendraKumar245/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
@@ -177,4 +179,8 @@
 | [0856-score-of-parentheses](https://github.com/NagendraKumar245/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NagendraKumar245/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NagendraKumar245/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/NagendraKumar245/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
