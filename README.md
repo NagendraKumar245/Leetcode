@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/NagendraKumar245/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/NagendraKumar245/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NagendraKumar245/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/NagendraKumar245/Leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/NagendraKumar245/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/NagendraKumar245/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NagendraKumar245/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/NagendraKumar245/Leetcode/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
