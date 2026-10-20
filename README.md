@@ -25,6 +25,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/NagendraKumar245/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/NagendraKumar245/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2848-points-that-intersect-with-cars](https://github.com/NagendraKumar245/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3524-find-x-value-of-array-i](https://github.com/NagendraKumar245/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NagendraKumar245/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -44,6 +45,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NagendraKumar245/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/NagendraKumar245/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2848-points-that-intersect-with-cars](https://github.com/NagendraKumar245/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## String
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/NagendraKumar245/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/NagendraKumar245/Leetcode/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NagendraKumar245/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2848-points-that-intersect-with-cars](https://github.com/NagendraKumar245/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Dynamic Programming
 |  |
 | ------- |
